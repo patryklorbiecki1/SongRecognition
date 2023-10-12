@@ -8,3 +8,6 @@ class SongRecognitionApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
